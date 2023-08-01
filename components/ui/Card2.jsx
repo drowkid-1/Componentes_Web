@@ -24,7 +24,7 @@ const Card = () => {
         <div className="flex items-center justify-between w-fit">
           <div>
             <h5 className="text-primary dark:text-white font-semibold text-sm">
-              Lazydev 1.0
+              DrowKid UI
             </h5>
             <p className="text-xs text-primary font-medium dark:text-gray-400">
               Copy and paste
