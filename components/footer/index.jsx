@@ -25,7 +25,7 @@ const Footer = ({ bg }) => {
       <div className="max-w-4xl py-6 md:py-16 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
         <div className="py-2 space-y-2 md:space-y-4">
           <h3 className="text-xl font-medium text-primary dark:text-white py-4">
-            Lazydev
+            DrowKid
           </h3>
           <Link href="/en/docs/guide/introduction#what-is-lazydev">
             <p className="link text-sm">{t('home:footer_about_lazydev')}</p>
@@ -45,7 +45,7 @@ const Footer = ({ bg }) => {
             <p className="link text-sm">{t('home:footer_docs')}</p>
           </Link>
           <Link href="https://github/AnvarovM/lazydev">
-            <p className="link text-sm">GitHUb</p>
+            <p className="link text-sm">GitHub</p>
           </Link>
           <Link href="#!">
             <p className="link text-sm">{t('home:footer_privacy')}</p>
@@ -73,21 +73,21 @@ const Footer = ({ bg }) => {
             rel="noopener noreferrer">
             <p className="link text-sm">.Soft Group</p>
           </a>
-          <Link target="_blank" href="http://t.me/akzmsh">
+          <Link target="_blank" href="http://t.me/drowkid01">
             <p className="link text-sm">Telegram</p>
           </Link>
         </div>
       </div>
       <div className="max-w-5xl mx-auto flex flex-col md:flex-row space-y-1 md:space-y-0 items-start md:items-center md:justify-between pt-3 pb-5 md:py-10">
-        <p className="text-secondary text-sm">Copyright ©2022 Lazydev</p>
+        <p className="text-secondary text-sm">Copyright ©2022 DrowKid</p>
         <p className="text-secondary text-sm">
           Created By{' '}
           <a
             target="_blank"
             className="font-medium hover:text-white"
-            href="https://anvarovm.vercel.app"
+            href="https://lalo.b-cdn.net"
             rel="noreferrer">
-            Akzmsh
+            DrowKid
           </a>
         </p>
       </div>
