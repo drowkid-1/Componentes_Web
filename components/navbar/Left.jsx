@@ -22,7 +22,7 @@ const Left = ({ sidebar, setSidebar }) => {
           className="relative flex items-center select-none">
           <div className="relative hidden md:block">
             <h3 className="font-sora tracking-wide -ml-1 font-semibold text-lg group-hover:cursor-pointer text-primary dark:text-white group-hover:opacity-80">
-              Lazydev
+              DrowKid
             </h3>
             <p className="absolute -top-4 -right-2 text-2xl group-hover:text-[#82ceee]">
               .
