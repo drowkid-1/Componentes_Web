@@ -46,7 +46,7 @@ const Header = () => {
             <div className="flex items-center space-x-2">
               <a
                 target="_blank"
-                href="https://t.me/akzmsh"
+                href="https://t.me/drowkid01"
                 className="btn px-3 py-[0.60rem] bg-transparent dark:bg-darkSecondary border-2 border-gray-300 hover:border-gray-800 dark:border-gray-600 dark:hover:border-gray-200 flex items-center space-x-2 text-primary dark:text-white"
                 rel="noreferrer">
                 <BsTelegram className="text-xl" />
@@ -54,7 +54,7 @@ const Header = () => {
               </a>
               <a
                 target="_blank"
-                href="https://github.com/AnvarovM/Lazydev"
+                href="https://github.com/drowkid-1/"
                 className="btn px-3 py-[0.60rem] relative bg-transparent dark:bg-darkSecondary border-2 border-gray-300 hover:border-gray-800 dark:border-gray-600 dark:hover:border-gray-200 flex items-center space-x-2 text-primary dark:text-white"
                 rel="noreferrer">
                 <BsGithub className="text-xl" />
