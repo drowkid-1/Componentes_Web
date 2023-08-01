@@ -1,4 +1,4 @@
-# Lezydev (v1.x)
+# Components React Apps (v1.x)
 
   <img width="100%" src="./public/images/lazydev.gif" alt="Laaydev" />
 
