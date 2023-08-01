@@ -27,12 +27,6 @@ const Footer = ({ bg }) => {
           <h3 className="text-xl font-medium text-primary dark:text-white py-4">
             DrowKid
           </h3>
-          <Link href="/en/docs/guide/introduction#what-is-lazydev">
-            <p className="link text-sm">{t('home:footer_about_lazydev')}</p>
-          </Link>
-          <Link href="/en/docs/guide/introduction#why-lazydev">
-            <p className="link text-sm">{t('home:footer_why_lazydev')}</p>
-          </Link>
           <Link href="/docs/guide/introduction/#faq">
             <p className="link text-sm">FAQ</p>
           </Link>
