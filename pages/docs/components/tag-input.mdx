@@ -1,0 +1,30 @@
+import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
+import { NestedLayout } from '@/components/layout/NestedLayout';
+import ComponentExample from '@/components/layout/ComponentExample';
+import { Code } from '@/components/layout/Code';
+import { PrevAndNext } from '@/components/layout/PrevAndNext';
+
+export const meta = {
+  name: 'Tag Input',
+  title: 'Tag Input | Lazydev ui components',
+};
+
+export const getStaticProps = async ({ locale }) => {
+  return {
+    props: {
+      ...(await serverSideTranslations(locale, ['home'])),
+    },
+  };
+};
+
+<PrevAndNext
+  leftPath="/docs/components/card"
+  rightPath="/docs/components/accordion"
+/>
+
+<div className="h-screen"></div>
+export default ({children}) => <NestedLayout
+  name={meta.name}
+  title={meta.title}>
+  {children}
+</NestedLayout>;
