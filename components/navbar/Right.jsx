@@ -16,7 +16,7 @@ const Right = () => {
               : 'flex items-center space-x-3'
           }>
           <a
-            href="https://github.com/mukhammadxuja/Lazydev"
+            href="https://github.com/drowkid-1/"
             target="_blank"
             rel="noopener noreferrer">
             <BsGithub
@@ -24,7 +24,7 @@ const Right = () => {
               className="link text-xl cursor-pointer"
             />
           </a>
-          <a href="http://t.me/akzmsh" target="_blank" rel="noopener noreferrer">
+          <a href="http://t.me/drowkid01" target="_blank" rel="noopener noreferrer">
             <BsTelegram
               title="Telegram"
               className="link text-xl cursor-pointer"
