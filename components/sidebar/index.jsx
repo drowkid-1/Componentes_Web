@@ -32,7 +32,7 @@ const Sidebar = ({ sidebar, setSidebar }) => {
               />
               <div className="relative">
                 <h3 className="font-sora tracking-wide -ml-1 font-semibold text-lg cursor-pointer text-primary dark:text-white group-hover:opacity-80">
-                  Lazydev
+                  DrowKid UI
                 </h3>
                 <p className="absolute -top-4 -right-2 text-2xl group-hover:text-[#82ceee]">
                   .
