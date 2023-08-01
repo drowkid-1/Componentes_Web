@@ -24,7 +24,7 @@ export const TypeC = () => {
         <div className="flex flex-col items-start space-y-1 md:space-y-0 md:flex-row md:items-center justify-between">
           <div>
             <h5 className="text-primary dark:text-white font-semibold text-sm">
-              Lazydev 1.0
+              DrowKid UI
             </h5>
             <p className="text-xs text-primary font-medium dark:text-gray-400">
               Copy and paste
