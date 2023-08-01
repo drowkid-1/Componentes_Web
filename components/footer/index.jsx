@@ -44,7 +44,7 @@ const Footer = ({ bg }) => {
           <Link href="/en/docs/guide/introduction">
             <p className="link text-sm">{t('home:footer_docs')}</p>
           </Link>
-          <Link href="https://github/AnvarovM/lazydev">
+          <Link href="https://github.com/drowkid-1/">
             <p className="link text-sm">GitHub</p>
           </Link>
           <Link href="#!">
@@ -59,7 +59,7 @@ const Footer = ({ bg }) => {
             <p className="link text-sm">{t('home:footer_issues')}</p>
           </Link>
           <Link href="#!">
-            <p className="link text-sm">FAQ</p>
+            <p className="link text-sm">Plantillas UI</p>
           </Link>
         </div>
         <div className="py-2 space-y-2 md:space-y-4">
@@ -68,10 +68,10 @@ const Footer = ({ bg }) => {
           </h3>
           <a
             className="list-none"
-            href="https://dotsoft.uz"
+            href="https://codeblog-drowkid.vercel.app/"
             target="_blank"
             rel="noopener noreferrer">
-            <p className="link text-sm">.Soft Group</p>
+            <p className="link text-sm">Code-Blog</p>
           </a>
           <Link target="_blank" href="http://t.me/drowkid01">
             <p className="link text-sm">Telegram</p>
@@ -81,7 +81,7 @@ const Footer = ({ bg }) => {
       <div className="max-w-5xl mx-auto flex flex-col md:flex-row space-y-1 md:space-y-0 items-start md:items-center md:justify-between pt-3 pb-5 md:py-10">
         <p className="text-secondary text-sm">Copyright ©2022 DrowKid</p>
         <p className="text-secondary text-sm">
-          Created By{' '}
+          Powered By{' '}
           <a
             target="_blank"
             className="font-medium hover:text-white"
