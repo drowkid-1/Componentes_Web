@@ -49,7 +49,7 @@ const Center = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/mukhammadxuja/Lazydev"
+            href="https://github.com/drowkid-1/"
             className="link flex items-center space-x-2 -ml-1 list-none">
             Give a star
             <svg
