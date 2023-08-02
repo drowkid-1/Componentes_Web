@@ -1,8 +1,8 @@
-# Components React Apps (v1.x)
+# DrowKid UI - Componentes web
 
-  <img width="100%" src="./public/images/lazydev.gif" alt="Laaydev" />
+  <img width="100%" src="./public/images/lazydev.gif" alt="DrowKid" />
 
-## Components 
+## Componentes disponibles: 
 
 - [x] Alert
 - [x] Avatar
@@ -31,3 +31,6 @@
 - [ ] Tabs
 - [ ] Textarea
 - [x] Tooltip
+
+## Versión beta 
+<em><a href="https://links-lalo.my.to">Soporte</em></a>
